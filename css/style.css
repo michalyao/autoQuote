@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +20,7 @@ div {
 }
 
 .container {
-    width: 360px;
+    width: 3px;
     border-radius: 3px;
     margin: 8% auto auto auto;
     padding: 40px 50px;
@@ -75,7 +77,6 @@ div {
 
 .container .buttons .button#weibo-quote, .container .buttons .button#tumblr-quote {
     float: left;
-    padding: 0px;
     padding-top: 8px;
     text-align: center;
     font-size: 1.2em;
